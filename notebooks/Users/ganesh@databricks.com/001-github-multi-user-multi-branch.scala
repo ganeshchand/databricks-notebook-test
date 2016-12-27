@@ -1,4 +1,4 @@
-// Databricks notebook source exported at Tue, 29 Nov 2016 00:31:21 UTC
+// Databricks notebook source
 s"Hello World"
 
 // COMMAND ----------
