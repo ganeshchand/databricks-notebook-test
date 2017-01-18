@@ -11,3 +11,9 @@ s"Hello World"
 
 // COMMAND ----------
 
+// MAGIC %md
+// MAGIC 
+// MAGIC This is a new test
+
+// COMMAND ----------
+
