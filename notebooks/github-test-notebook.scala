@@ -12,6 +12,7 @@
 // COMMAND ----------
 
 println("hello")
+println("local commit")
 
 // COMMAND ----------
 
