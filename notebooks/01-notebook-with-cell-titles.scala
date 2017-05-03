@@ -12,3 +12,8 @@ sayHelloTo("Ganesh")
 
 // COMMAND ----------
 
+
+// support list of names
+def sayHelloTo(names: List[String]) = {
+   names.map(name => s"Hello $name")
+}
